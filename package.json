@@ -1,0 +1,23 @@
+{
+  "name": "replchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/collection": "^0.5.0",
+    "@replit/database": "^2.0.1",
+    "axios": "^0.26.1",
+    "bad-words": "^3.0.4",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "kaboom": "^2000.2.9",
+    "socket.io": "^4.4.1",
+    "undici": "^5.0.0"
+  }
+}
